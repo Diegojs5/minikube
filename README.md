@@ -26,3 +26,7 @@ curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-
  minikube start
  
  Link: https://minikube.sigs.k8s.io/docs/start/
+
+### Setup Elastic stack on Kubernetes
+
+Configuração necessária para executar o servidor Elasticsearch + Kibana + Elastic APM e um aplicativo Node.js no Kubernetes
