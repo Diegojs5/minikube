@@ -1,5 +1,5 @@
 # minikube
-DevOps + Kubernetes + Elasticsearch + Kibana + servidor APM
+DevOps + Kubernetes + Elasticsearch + Kibana + APM
 
 
 # Arquitetura Kubernetes 
