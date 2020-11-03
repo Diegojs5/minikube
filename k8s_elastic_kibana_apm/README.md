@@ -1,8 +1,7 @@
 # Setup Example of Elastic stack on Kubernetes
 
-This example include all the necessary configuration to run Elasticsearch + Kibana + Elastic APM server and a Node.js app on Kubernetes.
-It was tested on Minikube so some configurations might change to run in a Cloud provider but it's expected that these resources will cover
-the most common cases.
+configuration to run Elasticsearch + Kibana + Elastic APM server and a Node.js app on Kubernetes.
+
 
 ## How to run
 
