@@ -1,6 +1,6 @@
 # Setup Example of Elastic stack on Kubernetes
 
-configuration to run Elasticsearch + Kibana + Elastic APM server and a Node.js app on Kubernetes.
+Configuration to run Elasticsearch + Kibana + Elastic APM server and a Node.js app on Kubernetes.
 
 
 ## How to run
