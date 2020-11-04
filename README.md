@@ -30,3 +30,13 @@ curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-
 ### Setup Elastic stack on Kubernetes
 
 Configuração necessária para executar o servidor Elasticsearch + Kibana + Elastic APM e um aplicativo Node.js no Kubernetes
+
+### verificar se kubectl se comunica corretamente
+
+kubectl cluster-info
+
+Kubernetes master is running at https://192.168.99.101:8443
+KubeDNS is running at https://192.168.99.101:8443/api/v1/namespaces/kube-system/services/kube-dns:dns/proxy
+
+
+
