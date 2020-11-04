@@ -55,8 +55,8 @@ kind: Deployment
 metadata:
   name: apm-server
 spec:
-  # this replicas value is default
-  # modify it according to your case
+  # este valor de réplicas é o padrão
+  # modifique de acordo com o seu caso
   replicas: 1
   template:
     metadata:
