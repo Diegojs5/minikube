@@ -1,5 +1,5 @@
 apiVersion: apps/v1
-# StatefulSets intestead of Deployments for persistent data
+# StatefulSet é o objeto API de carga de trabalho usado para gerenciar aplicativos com estado
 # https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/
 kind: StatefulSet
 metadata:
